@@ -8,7 +8,7 @@
 ```bash
 Node.js 18.x+
 NPM 9.x+
-Cuenta en Groq (https://console.groq.com)
+Crea una cuenta en Groq (https://console.groq.com)
 Número de WhatsApp dedicado
 ```
 # 🔧 Crea un archivo llamado rules.txt
