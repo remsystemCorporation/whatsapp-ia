@@ -55,7 +55,7 @@ npm start
 ├── .env
 ├── readme.txt
 │── rules.txt
-└── app.js
+└── index.js
 ```
 
 ## 🛠 Comandos disponibles
